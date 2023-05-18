@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018514574484",
+    "project_id": "fir-authentication-8e08e",
+    "storage_bucket": "fir-authentication-8e08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018514574484:android:4024db46af6e61b76a3881",
+        "android_client_info": {
+          "package_name": "com.example.medical_health_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018514574484-qrsnl3q35g6qajusdehllqv6g611uoum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medical_health_firebase",
+            "certificate_hash": "f9110ea8a50d2edb2c70b9a03bb90328ac43f03f"
+          }
+        },
+        {
+          "client_id": "1018514574484-kq2fd52c0k1e82lmpp19aq5dl5c991tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfK1vVbzlRwviqQ264dYViqdTklW-Dktk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018514574484-kq2fd52c0k1e82lmpp19aq5dl5c991tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
